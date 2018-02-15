@@ -9,3 +9,6 @@ Some aspects are not perfectly reproducable due to the way IntelliJ handles synt
 2. File | Import Settings...
 3. Select your recently acquired `settings-editor-colors.jar`
 4. Enjoy
+
+# Bonus
+iTerm2 Colors Port!
